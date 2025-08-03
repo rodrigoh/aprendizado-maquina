@@ -1,10 +1,12 @@
 import streamlit as st
 import joblib
 import pandas as pd
+import os
 
 @st.cache_data
 def carrega_modelo():
-  return joblib.load('modelo_titanic_logistic_regression.pkl')
+  caminho_modelo = os.path.join(os.path.dirname(__file__), 'modelo_titanic_logistic_regression.pkl')
+  return joblib.load(caminho_modelo)
 
 st.set_page_config(page_title='Titanic Logistic Regression', page_icon='🚢')
 
