@@ -1,0 +1,7 @@
+ID,Nome,Idade,Altura_cm,Peso_kg,Cidade,Nota_Matematica,Nota_Programacao
+1,Ana,18,160,55.0,São Paulo,8.5,9.0
+2,Bruno,19,175,80.0,SP,7.0,8.0
+3,Camila,18,162,,são paulo,9.0,
+4,Daniel,20,190,95.0,Rio de Janeiro,5.5,6.0
+5,Elisa,17,150,45.0,Belo Horizonte,10.0,9.5
+6,Felipe,22,210,130.0,São Paulo,2.0,3.0

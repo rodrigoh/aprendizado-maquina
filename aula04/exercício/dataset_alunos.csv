@@ -1,0 +1,21 @@
+ID,Nome,Idade,Altura_cm,Peso_kg,Cidade,Nota_Matematica,Nota_Programacao
+1,Aluno_1,18,160,55.0,São Paulo,8.5,9.0
+2,Aluno_2,19,170,70.0,SP,7.0,8.0
+3,Aluno_3,20,165,65.0,são paulo,9.0,
+4,Aluno_4,21,180,90.0,Rio de Janeiro,5.5,6.0
+5,Aluno_5,22,175,85.0,RJ,10.0,9.5
+6,Aluno_6,23,190,100.0,Belo Horizonte,2.0,3.0
+7,Aluno_7,18,162,60.0,bh,6.5,7.0
+8,Aluno_8,19,168,72.0,Curitiba,8.0,8.2
+9,Aluno_9,21,200,110.0,curitiba,7.5,7.8
+10,Aluno_10,22,150,45.0,Porto Alegre,9.5,9.0
+11,Aluno_11,20,155,50.0,POA,4.0,4.5
+12,Aluno_12,21,172,,Recife,6.0,5.5
+13,Aluno_13,19,185,95.0,recife,7.0,7.5
+14,Aluno_14,23,178,88.0,Fortaleza,8.5,8.0
+15,Aluno_15,22,169,68.0,fortaleza,,6.5
+16,Aluno_16,24,210,140.0,São Paulo,5.0,
+17,Aluno_17,25,158,48.0,sp,6.8,6.0
+18,Aluno_18,19,166,75.0,Rio de Janeiro,7.2,7.0
+19,Aluno_19,20,177,,rj,9.8,10.0
+20,Aluno_20,21,188,102.0,Manaus,3.0,4.0
